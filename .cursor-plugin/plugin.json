@@ -1,0 +1,20 @@
+{
+  "name": "mcp-server-magento",
+  "displayName": "MCP Server for Magento",
+  "version": "1.0.0",
+  "description": "Connect Cursor to miniOrange Magento MCP. Query catalog, inventory, orders, and customers on your Magento 2 / Adobe Commerce store.",
+  "author": {
+    "name": "miniOrange",
+    "email": "magentosupport@xecurify.com"
+  },
+  "homepage": "https://plugins.miniorange.com/magento-mcp-server",
+  "license": "MIT",
+  "keywords": [
+    "magento",
+    "adobe-commerce",
+    "mcp",
+    "ecommerce",
+    "miniorange"
+  ],
+  "logo": "assets/logo.svg"
+}

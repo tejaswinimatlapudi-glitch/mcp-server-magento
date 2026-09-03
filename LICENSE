@@ -19,18 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-The MIT License applies to the code and configuration files in *this
-repository* (e.g., the connector manifest, plugin.json, and README). You
-are free to use, copy, modify, and distribute these files, provided the
-copyright and license notice are retained.
-
-What it does not cover:
-miniOrange operates the Magento MCP Server connector as a hosted service. Customers
-connect to it over a network endpoint (URL) and do not receive a copy of
-the server-side application or its source code. Use of the hosted service
-is governed by miniOrange's Terms of Service and Privacy Policy -- NOT by
-this MIT License.
-
-Terms of Service: https://www.miniorange.com/terms-and-policies/terms-of-service
-Privacy Policy:   https://www.miniorange.com/terms-and-policies/privacy-policy
